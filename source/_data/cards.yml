@@ -1,0 +1,8 @@
+optimize: 
+  back_to_top: 
+    enable: true
+    smoothly: true
+  darkmode: 
+    enable: true
+
+    
