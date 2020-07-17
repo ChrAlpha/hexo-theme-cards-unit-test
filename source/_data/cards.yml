@@ -7,7 +7,7 @@ cover:
     - name: 归档
       url: /archives/
     - name: 友链
-      url: /friends/
+      url: /links/
     - name: Page
       url: /page/
       
@@ -36,7 +36,7 @@ analytics:
       enable: true
 
 vendors: 
-  style: https://cdn.jsdelivr.net/npm/hexo-theme-cards@0.7.0/dist/css/style/main.min.css
+  style: https://cdn.jsdelivr.net/npm/hexo-theme-cards@0.7/dist/css/style/main.min.css
   highlight: https://cdn.jsdelivr.net/npm/hexo-theme-cards@0.7/dist/css/highlight/
   note: https://cdn.jsdelivr.net/npm/hexo-theme-cards@0.7/dist/css/style/note.min.css
   darkmode: 
