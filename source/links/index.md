@@ -16,9 +16,9 @@ links:
   - name: Theme Cards Docs
     url: https://github.com/ChrAlpha/hexo-theme-cards
     avatar: https://theme-cards.ichr.me/assets/icon/android-chrome-96x96.png
-  - name: JalenChuh's Blog
-    url: https://blog.jalenchuh.cn/
-    avatar: https://rmt.dogedoge.com/fetch/royce/storage/avatar.png
+  - name: Flexiston
+    url: https://flexiston.com/
+    avatar: https://cdn.jsdelivr.net/gh/Flexiston/CDN@latest/img/avatar/avatar-min.jpg
   - name: NeroAsmar
     url: https://neroasmar.top/
     avatar: https://t.neroasmar.top/image/avatar.png
