@@ -17,6 +17,8 @@ navbar:
       url: /page/
       
 meta: 
+  updated: 
+    title: 'Finally updated at '
   toc: 
     list_number: true
     
