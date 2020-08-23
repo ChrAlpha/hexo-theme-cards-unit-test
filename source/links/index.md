@@ -25,5 +25,7 @@ links:
   - name: 若风
     url: https://loafing.cn/
     avatar: https://cdn.jsdelivr.net/gh/forliuyifei/forliuyifei.github.io.bak@master/img/lyf3.png
-  
+  - name: 阿成儿
+    url: https://blog.bytehua.com/
+    avatar: https://avatars2.githubusercontent.com/u/16396357?s=460&u=64aca4c5356894117268c2793fbe17fa16e34bd8&v=4
 ---
