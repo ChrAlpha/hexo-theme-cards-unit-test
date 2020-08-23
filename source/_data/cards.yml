@@ -1,4 +1,9 @@
-cover: 
+style: 
+  highlight: 
+    default: github
+    darkmode: atom-one-dark-reasonable
+
+navbar: 
   menu: 
     - name: 首页
       url: /
@@ -12,19 +17,26 @@ cover:
       url: /page/
       
 meta: 
+  updated: 
+    title: 'Finally updated at '
   toc: 
     list_number: true
+    
+footer:
+  statistics:
+    use: busuanzi
+    site_uv:
+      enable: true
+    site_pv:
+      enable: true
+    page_pv:
+      enable: true
 
 fancybox:
   enable: true
   auto: true
 back_to_top: true
 darkmode: true
-    
-footer:
-  copyright_since: 
-  statistics: 
-    use: busuanzi
 
 vendors: 
   style: https://cdn.jsdelivr.net/npm/hexo-theme-cards@1.0.1/dist/css/style/main.min.css
