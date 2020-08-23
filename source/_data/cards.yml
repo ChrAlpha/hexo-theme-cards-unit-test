@@ -15,31 +15,22 @@ meta:
   toc: 
     list_number: true
 
-optimize:
-  fancybox:
-    enable: true
-    auto: true
-  back_to_top: 
-    enable: true
-    smoothly: true
-  darkmode:
-    enable: true
+fancybox:
+  enable: true
+  auto: true
+back_to_top: true
+darkmode: true
     
-analytics:
-  busuanzi:
-    enable: true
-    site_uv:
-      enable: false
-    site_pv:
-      enable: true
-    page_pv:
-      enable: true
+footer:
+  copyright_since: 
+  statistics: 
+    use: busuanzi
 
 vendors: 
-  style: https://cdn.jsdelivr.net/npm/hexo-theme-cards@0.7/dist/css/style/main.min.css
-  highlight: https://cdn.jsdelivr.net/npm/hexo-theme-cards@0.7/dist/css/highlight/
-  note: https://cdn.jsdelivr.net/npm/hexo-theme-cards@0.7/dist/css/style/note.min.css
+  style: https://cdn.jsdelivr.net/npm/hexo-theme-cards@1.0.1/dist/css/style/main.min.css
+  highlight: https://cdn.jsdelivr.net/npm/hexo-theme-cards@1.0.1/dist/css/highlight/
+  note: https://cdn.jsdelivr.net/npm/hexo-theme-cards@1.0.1/dist/css/style/note.min.css
   darkmode: 
-    css: https://cdn.jsdelivr.net/npm/hexo-theme-cards@0.7/dist/css/style/dark.min.css
-    js: https://cdn.jsdelivr.net/npm/hexo-theme-cards@0.7/dist/js/darkmode.min.js
-  back_to_top: https://cdn.jsdelivr.net/npm/hexo-theme-cards@0.7/dist/js/b2t.min.js
+    css: https://cdn.jsdelivr.net/npm/hexo-theme-cards@1.0.1/dist/css/style/dark.min.css
+    js: https://cdn.jsdelivr.net/npm/hexo-theme-cards@1.0.1/dist/js/darkmode.min.js
+  back_to_top: https://cdn.jsdelivr.net/npm/hexo-theme-cards@1.0.1/dist/js/b2t.min.js
